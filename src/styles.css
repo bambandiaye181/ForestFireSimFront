@@ -1,0 +1,13 @@
+.grid-row {
+    display: flex;
+}
+
+.grid-cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+}
+
+.intact { background-color: green; }
+.burning { background-color: red; }
+.ash { background-color: grey; }

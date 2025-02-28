@@ -1,0 +1,23 @@
+{
+  "name": "forestfiresim",
+  "version": "1.0.0",
+  "Author": "Bamba",
+  "description": "A simple forest fire simulation",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.3",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.7.3",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
