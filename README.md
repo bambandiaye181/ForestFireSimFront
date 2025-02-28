@@ -15,3 +15,7 @@ This is a forest fire simulation project frontend interface.
 - TypeScript 
 - html webpack
 - Bootstrap
+
+
+Result :
+![alt text](image.png)
