@@ -12,8 +12,10 @@ This is a forest fire simulation project frontend interface.
 3. Run the development server with `npm run start`
 
 ## Technologies
-- TypeScript 
+- TypeScript
+- JavaScript 
 - html webpack
+- HTML / CSS
 - Bootstrap
 
 
